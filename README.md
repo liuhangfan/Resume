@@ -17,7 +17,7 @@ Liu, Hangfan, Yongzhi Su, Jason Rambach, Alain Pagani, and Didier Stricker. "Tga
 ## Resume
 [My Resume Preview](https://github.com/liuhangfan/Resume/blob/main/Hangfan_Liu_Software_Engineer1.pdf)
 
-[Download](https://github.com/liuhangfan/Resume/raw/main/Hangfan_Liu_Software_Engineer.pdf)
+[Download](https://github.com/liuhangfan/Resume/raw/main/Hangfan_Liu_Software_Engineer1.pdf)
 
 [Blog](https://liuhangfan.github.io/)
 
